@@ -1,0 +1,5 @@
+t=tuple(input("enter :"))
+l=list(t)
+l.append(t*3)
+print(l)
+print(t)
